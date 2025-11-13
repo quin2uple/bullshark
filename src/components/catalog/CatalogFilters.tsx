@@ -36,7 +36,7 @@ export function CatalogFilters({
 
   return (
     <section
-      className="grid grid-cols-1 gap-5 rounded-3xl bg-white/80 p-7 shadow-xl backdrop-blur-sm ring-1 ring-slate-200/50 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5"
+      className="grid grid-cols-1 gap-5 rounded-3xl bg-white/80 p-7 shadow-xl backdrop-blur-sm ring-1 ring-slate-200/50 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 md:sticky md:top-4 z-50"
       aria-label="Filters and sorting"
     >
       <div className={fieldContainerClass}>
