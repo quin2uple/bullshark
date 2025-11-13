@@ -1,7 +1,7 @@
-import "./App.css";
+import { CatalogExplorer } from "@/components";
 
 function App() {
-  return <></>;
+  return <CatalogExplorer />;
 }
 
 export default App;
