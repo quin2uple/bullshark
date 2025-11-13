@@ -2,6 +2,8 @@
 
 BullShark Catalog Explorer
 
+🔗 **[Live Demo](https://bullshark-six.vercel.app/)**
+
 ## Features
 
 ### Core Functionality ✅
